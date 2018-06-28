@@ -1,1 +1,1 @@
-# Sales App build with Xamarin and SQL Server.
+# Sodapop Restaurant
